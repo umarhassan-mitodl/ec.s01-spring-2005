@@ -4,6 +4,8 @@ description: This resource is the solution file for lab 6.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3843a847e58ba4fbcb660fe52d225f0b_GBProgram.java
 file_size: 900
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

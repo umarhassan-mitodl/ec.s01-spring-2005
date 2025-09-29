@@ -4,6 +4,8 @@ description: This is a resource file that contains information regarding caesar.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/cb4220cbeedbbdf2c28ec1c1eb33a465_MITEC_S01S05_caesar.pdf
 file_size: 176158
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

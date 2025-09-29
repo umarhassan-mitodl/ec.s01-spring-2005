@@ -5,6 +5,8 @@ description: Sudoku sample puzzle's top-left region. (Image courtesy of MIT-AITI
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/533496110386705e5773a82e44787a65_image3.jpg
 file_size: 8300
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

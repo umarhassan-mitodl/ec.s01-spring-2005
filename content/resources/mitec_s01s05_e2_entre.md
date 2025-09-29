@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding enterpr
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/7aaf25d6de0512cb49ef5f63e560e9cc_MITEC_S01S05_e2_entre.pdf
 file_size: 816778
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

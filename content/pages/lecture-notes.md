@@ -18,7 +18,7 @@ This course Web site has two major components:
 1. Content from the spring 2005 preparatory seminar offered by the MIT-AITI leadership.
 2. A snapshot of the MIT-AITI summer 2005 program in Kenya.
 
-Lecture notes for both the spring 2005 and {{% resource_link "4c9eae49-1db5-43c5-b6f7-b288a473910f" "summer 2005" %}} sessions are included below.
+Lecture notes for both the spring 2005 and [summer 2005](https://ocw-studio.odl.mit.edu/sites/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/type/page/edit/0dd4eaeb-d2f8-360d-612d-a17f93c97131/#Summer_2005) sessions are included below.
 
 ## Spring 2005
 
@@ -99,7 +99,7 @@ Fostering OpenCourseWare ({{% resource_link "42f26818-2160-6f25-164d-a775e146922
 {{< tdclose >}}{{< tdopen >}}
 Learning and International Development (Video courtesy of Prof. Richard C. Larson. Used with permission. Note: lecture slides are not presented for copyright reasons.)
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "936ab5ce-654f-46d9-beca-f4baaab03a35" "MP4 - 183 MB" %}})
+([MP4 - 183 MB](https://archive.org/download/MITSP.772S05/ocw-sp.772-25apr2005-220k.mp4))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}

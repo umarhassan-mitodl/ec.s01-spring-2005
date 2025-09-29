@@ -4,6 +4,8 @@ description: This is a resource file that contains information regarding operato
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/f4f85aba6b30efc202a7042c2d64574e_MITEC_S01S05_l03_operators.pdf
 file_size: 752658
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

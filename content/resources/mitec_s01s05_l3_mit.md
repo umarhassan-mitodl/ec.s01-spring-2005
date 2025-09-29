@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding MIT med
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3af5ebef4f663940d0de1053db0d7c50_MITEC_S01S05_l3_mit.pdf
 file_size: 176203
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

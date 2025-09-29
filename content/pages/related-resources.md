@@ -28,15 +28,15 @@ Optional Readings ({{% resource_link "651ef4ba-67e8-62cc-b02d-ca862ab70151" "PDF
 
 ### Entrepreneurship
 
-{{% resource_link "f91cbfbc-4b34-4329-828e-f4044abf6740" "Sample Business Plan" %}}
+[Sample Business Plan](http://www.bplans.com/sample_business_plans.php)
 
 ### Java® SDK
 
-{{% resource_link "eb57f1bc-ea94-46ca-b558-14f5a5156364" "Java® 2 Platform, Standard Edition, v. 1.4.2" %}}
+[Java® 2 Platform, Standard Edition, v. 1.4.2](http://java.sun.com/j2se/1.4.2/download.html)
 
 ### Java® API
 
-{{% resource_link "c5eed366-b829-4fc6-b0ed-9f9aae33efd5" "Java® 2 SDK, Standard Edition Documentation" %}}
+[Java® 2 SDK, Standard Edition Documentation](http://java.sun.com/j2se/1.4.2/docs/index.html)
 
 ### JCreator® Tool
 
@@ -44,19 +44,19 @@ JCreator®: Java® IDE (Registration is required, but the product is free.)
 
 ### JavaDocs® Tool
 
-{{% resource_link "6b9d4bf2-154c-4dc6-a068-4befcf7c6d14" "JavaDocs® API Generation Tool" %}}
+[JavaDocs® API Generation Tool](http://java.sun.com/j2se/javadoc/index.jsp)
 
 ### Java® Books
 
-{{% resource_link "ad92dae5-5a1d-4006-b936-c3e710b6223f" "Java® Cookbook" %}} by Ian F. Darwin
+[Java® Cookbook](http://www.oreilly.com/catalog/javacook/) by Ian F. Darwin
 
-{{% resource_link "07ad6d1a-e5f4-428f-b379-13eb58f610e2" "Java® Threads" %}} by Scott Oaks and Henry Wong
+[Java® Threads](http://www.oreilly.com/catalog/jthreads3/) by Scott Oaks and Henry Wong
 
 ### JSP™ Books
 
-{{% resource_link "436fb716-7fb8-4bbe-baab-ced0bac47345" "Pure JSP™: Java® Server Pages" %}} by James Goodwill
+[Pure JSP™: Java® Server Pages](http://www.informit.com/store/product.aspx?isbn=0672319020) by James Goodwill
 
-JavaServer™ Pages Syntax Card ({{% resource_link "a1d84a0e-0c88-457d-8d75-af5473eedc44" "PDF" %}})
+JavaServer™ Pages Syntax Card ([PDF](http://java.sun.com/products/jsp/syntax/1.2/card12.pdf))
 
 ### Graduate School Information
 

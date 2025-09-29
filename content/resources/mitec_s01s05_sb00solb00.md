@@ -4,6 +4,8 @@ description: This resource file contains information regarding final project lab
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/08916cc8f1c53331e1771e8c6b38d115_MITEC_S01S05_sb00solb00.pdf
 file_size: 209111
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

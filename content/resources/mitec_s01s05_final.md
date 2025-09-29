@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding final e
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/033b1a648360824211477b137647d38a_MITEC_S01S05_final.pdf
 file_size: 245001
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

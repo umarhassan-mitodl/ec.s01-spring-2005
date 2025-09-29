@@ -4,6 +4,8 @@ description: This is a resource file that contains information regarding arrays.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/c5f0c761f91162a23926bfee20de9c55_MITEC_S01S05_l05_arrays.pdf
 file_size: 706737
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

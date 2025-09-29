@@ -4,6 +4,8 @@ description: This is a resource file that contains information regarding MIT RA 
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/4ccce9199fbc98afab88308af809b74e_MITEC_S01S05_mit_ra_form.pdf
 file_size: 174880
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

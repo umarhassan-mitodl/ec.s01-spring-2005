@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding lecture
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/ae385d1de9d288653fb5883aa9d1025e_MITEC_S01S05_l09_lists_iterat.pdf
 file_size: 713319
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

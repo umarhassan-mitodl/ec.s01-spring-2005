@@ -4,6 +4,8 @@ description: This resource file contains information regarding lab 6.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/eda31c055ad938c1332ce55c3a1c2c5a_MITEC_S01S05_gradebookoo2.pdf
 file_size: 223382
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

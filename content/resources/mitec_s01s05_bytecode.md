@@ -4,6 +4,8 @@ description: This is a resource file that contains information regarding bytecod
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/7aa811155d4e4d6c9bd9f656d39ff5d7_MITEC_S01S05_bytecode.pdf
 file_size: 606040
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

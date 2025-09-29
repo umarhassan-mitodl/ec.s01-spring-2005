@@ -2,6 +2,8 @@
 content_type: page
 description: Calendar section contains information on course schedule for both spring
   and summer 2005.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

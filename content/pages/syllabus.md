@@ -167,5 +167,5 @@ Before asking the staff for help, we encourage you to first speak with your clas
 
 *   MIT-AITI 2005 Lecture Notes Booklet
 *   Hortsmann, Cay S., and Gary Cornell. _Core Java 1.1_. Volume 1: Fundamentals. 3rd revision. Mountain View, CA: SunSoft Press, 1997. ISBN: 9780135657553. (OCW students)
-*   {{% resource_link "41dfc55e-8e57-4bd8-8eec-0e99e75c861b" "MIT-AITI Web site" %}}
-*   {{% resource_link "20376d29-b63b-43e8-862e-905f61c39c56" "Java® API" %}}
+*   [MIT-AITI Web site](http://gsl-archive.mit.edu/program/mit-aiti/)
+*   [Java® API](http://java.sun.com/j2se/1.5.0/docs/api/)

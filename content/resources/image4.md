@@ -4,6 +4,8 @@ description: Sample Sudoku puzzle. (Image by MIT OCW.)
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/06368769be39578cc2f2c685dd367729_image4.jpg
 file_size: 32087
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

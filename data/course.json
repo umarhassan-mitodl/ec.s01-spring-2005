@@ -37,6 +37,7 @@
     "website": "ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005"
   },
   "course_title": "Internet Technology in Local and Global Communities",
+  "hide_download": true,
   "course_description": "This course is based on the work of the MIT-African Internet Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students to integrate computers and internet technology into the education of students in African schools. The program focuses upon programming principles, cutting-edge internet technology, free open-source systems, and even an entrepreneurship seminar to introduce students in Africa to the power of information technology in today's world.\n\nMIT-AITI achieves this goal by sending MIT students to three African nations in order to teach both students and teachers through intensive classroom and lab sessions for six weeks. The AITI program is implemented with emphasis on classroom teaching, community-oriented projects, and independent learning.\n\nThis course has two major components:\n\n1.  Content from a spring 2005 preparatory seminar offered by the MIT-AITI leadership. The goal of this seminar is to adequately prepare the AITI student teachers for their upcoming summer experiences in Africa.\n2.  A snapshot of the summer 2005 MIT-AITI program. This includes the Java\u00ae-based curriculum that MIT-AITI ambassadors teach in Africa each year, as well as content from an entrepreneurship seminar offered concurrently with the IT class.\n",
   "department_numbers": [
     "EC"
@@ -47,6 +48,7 @@
     "content": "9d66e016-7f55-3b5d-8f30-d11447f1c91b",
     "website": "ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Programming Assignments"
