@@ -10,15 +10,13 @@ uid: 6ca0f2a9-31f9-9885-9057-e673ad63670b
 video_metadata:
   youtube_id: null
 ---
-Spring 2005 Course Meeting Times
---------------------------------
+## Spring 2005 Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
 Labs: 1 session / week, 3 hours / session
 
-Summer 2005 Course Meeting Times
---------------------------------
+## Summer 2005 Course Meeting Times
 
 Lectures: 5 sessions / week, 2 hours / session
 
@@ -26,20 +24,18 @@ Labs: 5 sessions/ week, 2 hours / session
 
 Entrepreneurship Lectures: 2 sessions / week, 2 hours / session
 
-Course Overview
----------------
+## Course Overview
 
 This course is based on the work of the MIT-African Internet Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students to integrate computers and internet technology into the education of students in African schools. MIT-AITI achieves this goal by sending MIT students to three African nations in order to teach both students and teachers through intensive classroom and lab sessions for six weeks.
 
 This course Web site has two major components:
 
-1.  Content from the spring 2005 preparatory seminar offered by the MIT-AITI leadership.
-2.  A snapshot of the MIT-AITI summer 2005 program in Kenya.
+1. Content from the spring 2005 preparatory seminar offered by the MIT-AITI leadership.
+2. A snapshot of the MIT-AITI summer 2005 program in Kenya.
 
 Syllabi information for both the spring 2005 and summer 2005 sessions are detailed below.
 
-Spring 2005
------------
+## Spring 2005
 
 ### Course Description
 
@@ -47,9 +43,9 @@ SP.772 is a 6-unit seminar designed to help bring the vast benefits of informati
 
 ### Course Objectives
 
-1.  To prepare the MIT-AITI Summer 2005 participants for their upcoming experiences in Africa. Through this class, the participants will resolve all logistical issues and other matters that arise when traveling abroad.
-2.  To expose the participants to the contemporary African issues that relate to the AITI program. This includes presentations by guest lectures that will focus on topics ranging from cross-cultural communication to the needs for technology in Africa.
-3.  To benefit the local community by allowing the participants to teach the AITI Java® curriculum to community college students through the MIT Service Learning program. The students attending the class will travel to MIT for three hours on Saturdays, and the seminar participants will run this course as preparation for teaching in Africa. The participants will teach, assign problem sets, and grade material if necessary.
+1. To prepare the MIT-AITI Summer 2005 participants for their upcoming experiences in Africa. Through this class, the participants will resolve all logistical issues and other matters that arise when traveling abroad.
+2. To expose the participants to the contemporary African issues that relate to the AITI program. This includes presentations by guest lectures that will focus on topics ranging from cross-cultural communication to the needs for technology in Africa.
+3. To benefit the local community by allowing the participants to teach the AITI Java® curriculum to community college students through the MIT Service Learning program. The students attending the class will travel to MIT for three hours on Saturdays, and the seminar participants will run this course as preparation for teaching in Africa. The participants will teach, assign problem sets, and grade material if necessary.
 
 ### Attendance Policy
 
@@ -67,8 +63,7 @@ For the teaching portion of the seminar, each participant will be given hard and
 
 An electronic copy of the MIT-AITI curriculum can be found throughout this course site.
 
-Summer 2005
------------
+## Summer 2005
 
 ### Course Overview and Topics
 
@@ -86,66 +81,31 @@ This course will cover an introduction to the basics of entrepreneurship. Topics
 
 ### Grading Policy
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Labs
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 40%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Exams
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 30%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final Project
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 15%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Team Business Plan
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Class Participation/Quizzes
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 5%
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Participation and Expectations
 
@@ -165,7 +125,6 @@ Before asking the staff for help, we encourage you to first speak with your clas
 
 ### References and Materials
 
-*   MIT-AITI 2005 Lecture Notes Booklet
-*   Hortsmann, Cay S., and Gary Cornell. _Core Java 1.1_. Volume 1: Fundamentals. 3rd revision. Mountain View, CA: SunSoft Press, 1997. ISBN: 9780135657553. (OCW students)
-*   [MIT-AITI Web site](http://gsl-archive.mit.edu/program/mit-aiti/)
-*   [Java® API](http://java.sun.com/j2se/1.5.0/docs/api/)
+- MIT-AITI 2005 Lecture Notes Booklet
+- Hortsmann, Cay S., and Gary Cornell. *Core Java 1.1*. Volume 1: Fundamentals. 3rd revision. Mountain View, CA: SunSoft Press, 1997. ISBN: 9780135657553. (OCW students)
+- {{% resource_link "76700d11-c655-4eed-8980-dad9ce1e927d" "Java® API" %}}
