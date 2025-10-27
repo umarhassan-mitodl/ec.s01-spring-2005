@@ -2,8 +2,6 @@
 content_type: page
 description: Projects section includes the sample ideas of creating projects for both
   spring and summer 2005.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -33,7 +31,7 @@ OCW students will design and implement a final project individually or with a te
 
 This is an open-ended project and we encourage you to be creative and to try and tackle a challenging problem. Some sample project ideas are listed below. You may approach this problem as if you are developing a commercial product and will be demonstrating it to potential customers. The more useful the software, the better you present it, and the more working functionality has, the more likely you will sell the software. If it is an experimental or theoretical project, you may treat it as something you would present at an academic conference.
 
-You may either implement an entirely new design, or build on an existing open source Java® project. You should use any available resource and may integrate any code that is available under an open source or free license like GNU or Creative Commons. Sites like [SourceForge](http://sourceforge.net/index.php) have literally thousands of projects available for download. This might be a good place to start for motivation and source code examples. You should consider posting your own project on SourceForge under an open source license following the course. We may also ask your permission to post some of the best projects on MIT's OpenCourseWare or AITI Web sites.
+You may either implement an entirely new design, or build on an existing open source Java® project. You should use any available resource and may integrate any code that is available under an open source or free license like GNU or Creative Commons. Sites like {{% resource_link "d7fe71a9-8202-4270-affc-6f73c243b977" "SourceForge" %}} have literally thousands of projects available for download. This might be a good place to start for motivation and source code examples. You should consider posting your own project on SourceForge under an open source license following the course. We may also ask your permission to post some of the best projects on MIT's OpenCourseWare or AITI Web sites.
 
 It is acceptable if you do not achieve all the goals stated in your proposal. Part of the experience is learning how to plan software projects, gauge your own productivity, and coping with inevitable problems. That being said, we expect you to push yourself and produce a significantly complex, interesting, and useful project. Working intensely to ship code before a tight deadline is part of the software development business. You will have an entire week of lab time to work on the project and should be able to implement a fairly complex design.
 
@@ -71,7 +69,7 @@ Sample Project Ideas
 
 These are just sample ideas to give you an idea of the depth of project that you can probably design in a week. You should feel free to do any of these ideas, or choose one of your own.
 
-*   Games - Invent something fun. See [Game Play](https://www.gameplaygames.com/) for motivation.
+*   Games - Invent something fun. See {{% resource_link "fac4e412-b7ae-4986-bc87-a2017d5e42c8" "Game Play" %}} for motivation.
 *   Social Networking - Design a stand-alone or Web-based version of a social network site like Friendster®, MySpace®, or Orkut®.
 *   Photo Browsing Software - Design an application to view and organize a collection of photos, like iPhoto® or similar applications.
 *   Peer-to-Peer File Sharing - Design a peer-to-peer file network, or implement a client for an existing application like BitTorrent. (See existing Java® BitTorrent applications.)
@@ -122,11 +120,11 @@ For this final project, you will take the provided source code and implement the
 
 For more information on Sudoku:
 
-[Sudoku](http://www.sudoku.com/)
+{{% resource_link "f8755e68-fb41-4156-863e-4fdc3f871110" "Sudoku" %}}
 
-[Wikipedia: Sudoku](http://en.wikipedia.org/wiki/Sudoku)
+{{% resource_link "c4d0e09a-933d-4d10-b292-56b97415ea80" "Wikipedia: Sudoku" %}}
 
-[Sudoku List](http://www.sudoku.org.uk/)
+{{% resource_link "40d36ed7-6e7f-4541-a742-24922538241e" "Sudoku List" %}}
 
 Happy hacking!
 
